@@ -1,6 +1,14 @@
-- 👋 Hi, I’m @marcusanthonylorenzo
-- 👀 I’m interested in simulation games, Wrestling/Brazilian Jiujitsu/MMA, Central Asian history (Mongol expansion), and groovy House music.
-- 🌱 I’m currently learning all Front-End technologies with a focus on React. (And, eventually, Python or any server-side language really!)
+## Hey all, my name's Marcus! 
+
+I began self-studying front-end technologies in late-November 2021...
+After only 4 months of dedicated self-curriculum, I hope my progress is quite clear! Believe when I say: I study hard and work methodically!
+
+Some of my favorite things are:
+ Simulation games,
+ Wrestling/Brazilian Jiujitsu/MMA,
+ Central Asian history (Mongol expansion),
+ and groovy House music.
+
 
 <!---
 marcusanthonylorenzo/marcusanthonylorenzo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
