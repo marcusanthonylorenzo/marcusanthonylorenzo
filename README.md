@@ -1,7 +1,7 @@
 ## Hey all, my name's Marcus! 
 
 I began self-studying front-end technologies in late-November 2021.
-After only 4 months of dedicated self-curriculum, I hope my progress is quite clear! Believe when I say: I study hard and work methodically!
+After only 4 months of dedicated self-curriculum, I hope my progress is quite clear! Believe me when I say: I study hard and work methodically...I will become a Software Developer in 2022/2023, and a reliable one at that!
 
 Some of my favorite things are:
  Simulation games,
