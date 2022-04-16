@@ -1,6 +1,9 @@
-<div align="center" style=">
-
+            
+<div align=center>
+ 
 ### Hey all, my name's Marcus! 	:desert_island:	:grinning: :call_me_hand: 
+
+ 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcusanthonylorenzo/) [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marcusanthonylorenzo/) [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcus.anthony.lorenzo)
 
 ![image](https://media0.giphy.com/media/ZrlYxeVZ0zqkU/200w.gif?cid=82a1493bihjpoeklnsatzbgux2vdo1aha4dzpovzi68bofaj&rid=200w.gif&ct=g)
