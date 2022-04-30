@@ -18,7 +18,7 @@ After only months of dedicated self-curriculum, I hope my progress is quite clea
 
 ##### Some of my favorite things are:
  - Simulation games,
- - Wrestling, Brazilian Jiujitsu, MMA.
+ - Freestyle/Collegiate Wrestling, Brazilian Jiujitsu, MMA.
  - Central Asian history (Mongol expansion),
  - Tears For Fears ("Everyyyybodyyyy wants-to rule-the..."), House music, and most 80's rock/synthwave.
 
