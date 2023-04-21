@@ -9,7 +9,10 @@
 ![image](https://media0.giphy.com/media/ZrlYxeVZ0zqkU/200w.gif?cid=82a1493bihjpoeklnsatzbgux2vdo1aha4dzpovzi68bofaj&rid=200w.gif&ct=g)
 ##### ~ Alexa, [play groovy House music](https://youtu.be/AmxVbZpIf1E?t=84) ~  :v:
 
-<!-- ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=marcusanthonylorenzo) -->
+[![](https://github-readme-stats.vercel.app/api?username=marcusanthonylorenzo&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+            
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcusanthonylorenzo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
 
 
